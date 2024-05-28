@@ -4,7 +4,7 @@ library(readxl)
 library(fpp2)
 
 #Monthly_data_frame = read.csv("C:/Users/jayar/Downloads/MSBA/Sem_2/ECON/Project/Final/Gold Futures Historical Data.csv")
-Monthly_data_frame=read.csv("C:/Users/navee/Desktop/MSBA/ECON-5337/Project/Gold Futures Historical Data_Monthly.csv")
+Monthly_data_frame=read.csv("C:/Users/jayar/Downloads/MSBA/Sem_2/ECON/Project/Final/Gold Futures Historical Data.csv")
 Monthly_data_frame
 
 class(Monthly_data_frame)
